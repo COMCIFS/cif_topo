@@ -11,7 +11,7 @@ data_CIF_TOPO
     _dictionary.title             CIF_TOPO
     _dictionary.class             Instance
     _dictionary.version           0.9.7
-    _dictionary.date              2026-05-01
+    _dictionary.date              2026-11-03
     _dictionary.uri
         https://raw.githubusercontent.com/COMCIFS/TopoCif/main/cif_topo.dic
     _dictionary.ddl_conformance   4.2.0
@@ -1990,7 +1990,7 @@ save_
        to be compatible with the data items that they are linked to.
        (A. Vaitkus)
 ;
-         0.9.7                    2026-05-01
+         0.9.7                    2026-11-03
 ;
        # Please update the date above and describe the change below until
        # ready for the next release.
